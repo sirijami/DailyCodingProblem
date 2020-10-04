@@ -1,0 +1,10 @@
+Intialize a Map:
+const map = new Map([[k,v],[k,v]])
+
+Array to Map:
+Loop through and set
+set and get
+
+Array:
+includes
+reducer [returns value] , syntax arr.reduce(accumulator, currVal, i)
